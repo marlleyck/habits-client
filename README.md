@@ -26,7 +26,7 @@
 <br />
 
 <h1 align="center">:computer: Sobre o Projeto</h1>
-<p align="center">Aplicação feita com ReactJs (frontend) e NodeJs (backend), em que consiste a criação de hábitos como se fosse uma ToDo List. O fluxo do projeto imita o fluxo de commits do Github e esses dados serão cadastrados em um banco SQL (MySql com Prisma).</p>
+<p align="center">Aplicação feita com ReactJs (frontend) e NodeJs (backend), em que consiste a criação de hábitos como se fosse uma ToDo List. O fluxo do projeto imita o fluxo de commits do Github e esses dados serão cadastrados em um banco SQL (SQLite com Prisma).</p>
 <br />
 
 <h1 align="center">:rocket: Executando o Projeto</h1>
